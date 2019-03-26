@@ -1,3 +1,4 @@
+
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -173,6 +174,9 @@ int main(){
 	inv[0] = a;	inv[1] = b;
 	
 	int w;
+	
+	# facilitaria se esta entrada fosse lida de um arquivo
+	# 
 	while(cin >> a){
 		cin >> b >> w;
 
